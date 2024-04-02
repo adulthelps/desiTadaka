@@ -1,0 +1,22 @@
+.spinner {
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    border: none;
+    border-top: 4px solid #94dfef;
+    animation: spinners 1s linear infinite;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  
+  @keyframes spinners {
+    0% {
+      transform: rotate(0deg);
+    }
+    100% {
+      transform: rotate(360deg);
+    }
+  }
+  

@@ -1,0 +1,139 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#navbar {
+  height: fit-content;
+  width: 100%;
+  background: linear-gradient(to right, #94dfef, #b3ed7e);
+  display: flex;
+  flex-flow: row;
+  justify-content: space-between;
+  align-items: center;
+  position: sticky;
+  top: 0;
+  left: 0;
+  z-index: 1;
+  a {
+    .logo {
+      height: 70px;
+      width: 70px;
+      padding: 5px;
+      .logo1 {
+        height: inherit;
+        width: inherit;
+        filter: drop-shadow(2px 4px 6px rgb(69, 69, 68));
+        border-radius: 50%;
+        object-fit: cover;
+        object-position: 0px -2px;
+      }
+      .logo1:hover {
+        filter: drop-shadow(2px 4px 6px rgb(240, 188, 110));
+        transition: all ease-in-out 2s;
+      }
+    }
+  }
+  .lists {
+    margin-right: 50px;
+    .list {
+      display: flex;
+      flex-flow: row;
+      justify-content: flex-start;
+      align-items: center;
+      .items {
+        list-style: none;
+        font-size: clamp(20px, 2.5vw, 32px);
+        margin: 0px 10px;
+        cursor: pointer;
+      }
+      .item {
+        list-style: none;
+        font-size: clamp(20px, 2.5vw, 32px);
+        margin: 0px 10px;
+        cursor: pointer;
+        position: relative;
+      }
+    }
+  }
+  .icons {
+    display: none;
+    .icon {
+      font-size: 50px;
+      padding-right: 15px;
+      cursor: pointer;
+    }
+  }
+}
+
+.items a {
+  text-decoration: none;
+  color: black;
+  position: relative;
+}
+
+.items a:hover,
+.item:hover {
+  color: #5bb5fe;
+  transition: all ease 1s;
+}
+
+
+.items a::after,
+.item::after {
+  content: "";
+  position: absolute;
+  bottom: 0px;
+  left: 0px;
+  width: 0%;
+  height: 2px;
+  background-color: #755efc;
+  transition: all ease 1s;
+}
+
+.items a:hover::after,
+.item:hover::after {
+  width: 100%;
+}
+
+
+@media screen and (max-width: 600px) {
+  #navbar {
+    .lists {
+      display: none;
+      position: absolute;
+      top: 81px;
+      right: 0px;
+      margin-right: 0px;
+      height: 90vh;
+      width: 30%;
+      background-color: #a8a0a038;
+      .list {
+        flex-flow: column;
+        align-items: flex-start;
+        .items {
+          font-size: 25px;
+          width: 100%;
+          margin: 10px 0px;
+          a {
+            padding: 5px 2px;
+          }
+        }
+        .item {
+          font-size: 25px;
+          width: 100%;
+          margin: 0;
+        }
+        .items:hover {
+          background-color: rgb(188, 236, 251);
+        }
+      }
+    }
+    .visible {
+      display: block;
+    }
+    .icons {
+      display: block;
+    }
+  }
+}

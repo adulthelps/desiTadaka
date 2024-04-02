@@ -1,0 +1,13 @@
+.filterContainer{
+    display: flex;
+    flex-flow: row;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 100%;
+    box-shadow: 0px 2px 16px 2px #b3ed7e, inset 0px 0px 17px 7px  #94dfef;
+    padding: 10px 0;
+    margin: 10px 0;
+}
+.btn{
+    flex-basis: 18%;
+}
