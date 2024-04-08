@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import "./details.scss";
-import { useNavigate, useParams } from "react-router-dom";
+import {  useParams } from "react-router-dom";
 import { useSelector } from "react-redux";
 import { RootState } from "../Redux/reducer/combineReducer";
 import YouTubePlayer from "./youtubeVideo";
@@ -9,7 +9,6 @@ import { IData } from "../Redux/reducer/collectionList";
 export const DetailItem: React.FC = () => {
   const [lang, setLang] = useState<string>("english");
   const data = useSelector((state: RootState) => state.reducers.CollectionData);
-  const navigator = useNavigate();
   const { id } = useParams<{ id: string }>();
   console.log("params id is ", id);
   let dis: string = "";

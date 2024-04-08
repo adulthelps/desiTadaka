@@ -1,5 +1,5 @@
 import React from 'react'
-import { useNavigate, useParams } from 'react-router-dom';
+import {  useParams } from 'react-router-dom';
 import { RootState } from '../Redux/reducer/combineReducer';
 import { useSelector } from 'react-redux';
 import './details.scss'

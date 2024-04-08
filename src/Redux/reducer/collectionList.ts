@@ -61,7 +61,23 @@ import img60 from "../../images/60.jpg"
 import img61 from "../../images/61.jpg"
 import img62 from "../../images/62.jpg"
 import img63 from "../../images/63.jpg"
-// import img64 from "../../images/64.jpg"
+import img64 from "../../images/fake chat.jpg"
+import img65 from "../../images/sabsebada ep 3.jpg"
+// import img66 from "../../images/bachpan ep 1.jpg"
+// import img67 from "../../images/desi cute.jpg"
+import img68 from "../../images/hardcore.jpg"
+import img69 from "../../images/maryandmarlow.jpg"
+import img70 from "../../images/70.jpg"
+import img71 from "../../images/muslim girl.jpg"
+import img72 from "../../images/yashmin in car.jpg"
+import img73 from "../../images/73.jpg"
+import img74 from "../../images/74.jpg"
+import img75 from "../../images/75.jpg"
+import img76 from "../../images/76.jpg"
+import img77 from "../../images/77.jpg"
+import img78 from "../../images/78.jpg"
+import img79 from "../../images/79.jpg"
+import img80 from "../../images/80.jpg"
 
 export interface IData {
     image: string;
@@ -944,20 +960,202 @@ export const collectionList=():IData[]=>{
           watch:false,
         }
       },
-      // {
-      //   image:img64,
-      //   link:"https://teraboxapp.com/s/1ngVje44RuGDWSHGZmTkvUA",
-      //   id:64,
-      //   body:{
-      //     description:"By Giving The Beauty Of Sister In Law, The Uncle On The Side Did Not Agree To It indian porn",
-      //     name:"love between jija sali",
-      //     category:"hindi drama",
-      //     about:"By Giving The Beauty Of Sister In Law, The Uncle On The Side Did Not Agree To It indian porn",
-      //     language:"hindi",
-      //     watch:false,
-      //   }
-      // },
+      {
+        image:img64,
+        link:"https://teraboxapp.com/s/1OeyvCNiU-w0WwJ5ADgWo1g",
+        id:64,
+        body:{
+          description:"By Giving The Beauty Of Sister In Law, The Uncle On The Side Did Not Agree To It indian porn",
+          name:"Fake chat ep 1",
+          category:"webSeries",
+          about:"By Giving The Beauty Of Sister In Law, The Uncle On The Side Did Not Agree To It indian porn",
+          language:"hindi",
+          watch:false,
+        }
+      },
+      {
+        image:img65,
+        link:"https://teraboxapp.com/s/1pfyZ-rkgnsHH9ry99ZOiQQ",
+        id:65,
+        body:{
+          description:"Bharti jha hot scene in this web series mind blowing",
+          name:"Sabse bada rupaya ep 3",
+          category:"webSeries",
+          about:"By Giving The Beauty Of Sister In Law, The Uncle On The Side Did Not Agree To It indian porn",
+          language:"hindi",
+          watch:false,
+        }
+      },
+      {
+        image:img68,
+        link:"https://teraboxapp.com/s/1OeyvCNiU-w0WwJ5ADgWo1g",
+        id:68,
+        body:{
+          description:"Hardcore sexy young girl video Video hb ne",
+          name:"Hardcore sexy young girl",
+          category:"Desi",
+          about:"Hardcore sexy young girl video Video hb ne",
+          language:"hindi",
+          watch:false,
+        }
+      },
+      {
+        image:img69,
+        link:"https://teraboxapp.com/s/1VkGc83F-2Uk4dyJxQ2Q2_A",
+        id:69,
+        body:{
+          description:"Bharti jha hot scene in this web series mind blowing",
+          name:"Mary and Marlow ep 1",
+          category:"webSeries",
+          about:"By Giving The Beauty Of Sister In Law, The Uncle On The Side Did Not Agree To It indian porn",
+          language:"hindi",
+          watch:false,
+        }
+      },
+      {
+        image:img70,
+        link:"https://teraboxapp.com/s/1UylNjqKyeCLwpQWFeiKO5g",
+        id:70,
+        body:{
+          description:"Hot hijab girl's boyfriend kissing and pressing boobs",
+          name:"Hot hijab girl",
+          category:"pakistani",
+          about:"Hot hijab girl's boyfriend kissing and pressing boobs",
+          language:"hindi",
+          watch:false,
+        }
+      },
+      {
+        image:img71,
+        link:"https://teraboxapp.com/s/1EU5_akxRGe3WdZnCBoteHA",
+        id:71,
+        body:{
+          description:"Hot  girl showing her boobs and saved pussy",
+          name:"Hot pakistani girl",
+          category:"pakistani",
+          about:"Hot  girl showing her boobs and saved pussy",
+          language:"hindi",
+          watch:false,
+        }
+      },
+      {
+        image:img72,
+        link:"https://teraboxapp.com/s/1wlvSn4uMIc37miVeI0VK1w",
+        id:72,
+        body:{
+          description:"Hot yashmine khan fucked during the her traveling ",
+          name:"Yashmine Khan",
+          category:"PornStar",
+          about:"Hot yashmine khan fucked during the her traveling ",
+          language:"english",
+          watch:false,
+        }
+      },
+      {
+        image:img73,
+        link:"https://teraboxapp.com/s/1QA_ZzRxlRBnctyZ2HAYIyA",
+        id:73,
+        body:{
+          description:"hot pakistani girl fucked in car",
+          name:"hot pakistani gf",
+          category:"pakistani",
+          about:"hot pakistani girl fucked in car",
+          language:"hindi",
+          watch:false,
+        }
+      },
       
+      {
+        image:img74,
+        link:"https://teraboxapp.com/s/1pWdzKIQXzGKXHOaH3BlHig",
+        id:74,
+        body:{
+          description:"Hot yashmine khan role played a jini and she asked for a wish but that young decide to fuck her as his wish",
+          name:"Yashmine Khan",
+          category:"PornStar",
+          about:"Hot yashmine khan role played a jini and she asked for a wish but that young decide to fuck her as his wish",
+          language:"english",
+          watch:false,
+        }
+      },
+      {
+        image:img75,
+        link:"https://teraboxapp.com/s/1by1kH6_ZxNRr5aH6f38MiA",
+        id:75,
+        body:{
+          description:"Hot and most beautiful girl kissing and sucking boobs. just I am sure you will sure like it",
+          name:"hot GF",
+          category:"desi",
+          about:"Hot and most beautiful girl kissing and sucking boobs",
+          language:"hindi",
+          watch:false,
+        }
+      },
+      {
+        image:img76,
+        link:"https://teraboxapp.com/s/13iH4rGeTar6H_Rjd4gujDA",
+        id:76,
+        body:{
+          description:"Hot and most beautiful girl kissing and sucking boobs. just I am sure you will sure like it",
+          name:"hot desi girl sex in car",
+          category:"desi",
+          about:"Hot and most beautiful girl kissing and sucking boobs",
+          language:"hindi",
+          watch:false,
+        }
+      },
+      {
+        image:img77,
+        link:"https://teraboxapp.com/s/1vsMcWXhYRoKFF3Edw3y77w",
+        id:77,
+        body:{
+          description:"Hot and most beautiful girl forcefully fucked by a cruel boys",
+          name:"most beautiful girl",
+          category:"desi",
+          about:"Hot and most beautiful girl kissing and sucking boobs",
+          language:"hindi",
+          watch:false,
+        }
+      },
+      {
+        image:img78,
+        link:"https://teraboxapp.com/s/1lXBVXWvFLkDKBhiMAIBH2Q",
+        id:78,
+        body:{
+          description:"Hot and most beautiful girl forcefully fucked by a cruel boys",
+          name:"village girl outdoor",
+          category:"desi",
+          about:"Hot and most beautiful girl kissing and sucking boobs",
+          language:"hindi",
+          watch:false,
+        }
+      },
+      {
+        image:img79,
+        link:"https://teraboxapp.com/s/1nvNr93GKMe0guuojgi0QRg",
+        id:79,
+        body:{
+          description:"Hot yashmine khan role as a pizza delivery girl when she meet a man than than man offer her some money to guess how big her penies",
+          name:"Yashmine khan",
+          category:"Pornstar",
+          about:"Hot yashmine khan role as a pizza delivery girl when she meet a man than than man offer her some money to guess how big her penies",
+          language:"english",
+          watch:false,
+        }
+      },
+      {
+        image:img80,
+        link:"https://teraboxapp.com/s/13sBTbvJw_L53py1DeqZ3aA",
+        id:80,
+        body:{
+          description:"Hot yashmine khan role as a  bengali women and get fucked by her guest",
+          name:"Yashmine khan",
+          category:"Pornstar",
+          about:"Hot yashmine khan role as a  bengali women and get fucked by her guest",
+          language:"english",
+          watch:false,
+        }
+      },
     ]
    
     

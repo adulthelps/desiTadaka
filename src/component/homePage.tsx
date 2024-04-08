@@ -67,11 +67,11 @@ export const HomePage: React.FC = () => {
       dispatch(reset(1));
       console.log("reset");
     }
+
   };
 
-
   const paginationOptions: PaginationOptions = {
-    pageSize: 10,
+    pageSize: 16,
     currentPage: collections.PageNum,
   };
 
@@ -102,10 +102,11 @@ export const HomePage: React.FC = () => {
 
       <CategoryComp />
       <div className="announce">
-        <h1>
-          All content I upload is available on the internet. I don't intend
-          harm. If you have concerns, contact me, and I'll promptly remove the
-          content in question.
+        <h1 id="ann">
+            All content I upload is available on the internet. I don't intend
+            harm. If you have concerns, contact me, and I'll promptly remove the
+            content in question.
+          
         </h1>
       </div>
       <div className="container">
@@ -129,7 +130,7 @@ export const HomePage: React.FC = () => {
           className="button"
           disabled={collections.PageNum === 1}
         >
-          Prev
+          <a href="#ann">Prev</a>
         </button>
         <button className="activated">{collections.PageNum}</button>
 
@@ -138,10 +139,9 @@ export const HomePage: React.FC = () => {
           className="button"
           disabled={collections.PageNum === maxPageNumber}
         >
-          Next
+         <a href="#ann"> Next</a>
         </button>
       </div>
     </div>
   );
 };
-
